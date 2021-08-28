@@ -1,5 +1,5 @@
 # ForeignLove
-2020년 1분기에 진행한 프로젝트로, **HTML, JS, CSS**와 **Spring**으로 교환학생을 위한 웹 커뮤니티를 구현했다.
+2020년 1분기에 진행한 프로젝트로, **HTML, JS, CSS**와 **자바 서블릿**으로 교환학생을 위한 웹 커뮤니티를 구현했다.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWOOSERK%2FForeignLove&count_bg=%2379C83D&title_bg=%23555555&icon=furrynetwork.svg&icon_color=%23FFFFFF&title=ForeignLove&edge_flat=true)](https://hits.seeyoufarm.com)
 
@@ -12,7 +12,6 @@
 
 ### Backend
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 
 ### Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
